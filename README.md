@@ -10,7 +10,6 @@ This repository stores the code for my self project: Snake Game completed during
 - ```pip install pygame```
 
 ## Running the code
-Run the foolowing command in terminal to run the code
 ```
 python snake.py --theme /path/to/music
 ```
