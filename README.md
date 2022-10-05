@@ -5,6 +5,9 @@ This repository stores the code for my self project: Snake Game completed during
 - I have added a high score feature
 - Listen to your own music while playing the game
 
+## Example
+- Images showing various game screens have been uploaded under Image folder
+
 ## Requirements
 - pygame module which can be installed by running following command in terminal
 - ```pip install pygame```
