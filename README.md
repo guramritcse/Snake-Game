@@ -9,4 +9,7 @@ This repository stores the code for my self project: Snake Game completed during
 - pygame module
 
 ## Running the code
+```
+python snake.py --theme /path/to/music
+```
 Use "python snake.py --theme /path/to/music" to run the code
