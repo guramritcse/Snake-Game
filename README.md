@@ -5,5 +5,8 @@ This repository stores the code for my self project: Snake Game completed during
 - I have added a high score feature
 - Listen to your own music while playing the game
 
+## Requirements
+- pygame module
+
 ## Running the code
 Use "python snake.py --theme /path/to/music" to run the code
