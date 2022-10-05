@@ -6,10 +6,12 @@ This repository stores the code for my self project: Snake Game completed during
 - Listen to your own music while playing the game
 
 ## Requirements
-- pygame module
+- pygame module which can be installed by running following command in terminal
+- ```pip install pygame```
 
 ## Running the code
+Run the foolowing command in terminal to run the code
 ```
 python snake.py --theme /path/to/music
 ```
-Use "python snake.py --theme /path/to/music" to run the code
+
