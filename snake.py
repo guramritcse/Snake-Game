@@ -246,7 +246,9 @@ def gameLoop(user_name):
             for pos in snake_pos[:-1]: 
                 if pos == snake_curr_head: 
                     game_close = True
-                    break    
+                    break
+            if game_close:
+                continue    
             if headX == foodx and headY == foody:
                 foodx = round(random.randrange(0, screen_width - block) / 10.0) * 10.0 
                 foody = round(random.randrange(30, screen_height - block) / 10.0) * 10.0
